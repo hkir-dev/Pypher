@@ -10,3 +10,6 @@ class PypherAliasException(PypherException):
 
 class PypherArgumentException(PypherException, ValueError):
     pass
+
+class CustomException(PypherException, ValueError):
+    pass
