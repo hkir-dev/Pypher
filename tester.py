@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-Horizontal split example.
+Horizontal split example.xx
 """
 from __future__ import unicode_literals
 
